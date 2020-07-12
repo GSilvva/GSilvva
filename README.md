@@ -8,7 +8,7 @@
 
 ### Me chamo Gabriel (Você já deve ter percebido).
 
-Atualmente trabalho como analista de sistemas, com foco em front-end, na Inpartec, empresa especialista em soluções com Office 365.
+Atualmente trabalho como analista de sistemas, com foco em front-end, na [Inpartec](https://www.inpartec.com.br/), empresa especialista em soluções com Office 365.
 
  - 💙 Vivendo um romance com Javascript
  - ☄️ Atualmente focando os estudos na stack ReactJS e NodeJS
