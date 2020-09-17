@@ -10,7 +10,6 @@
 
 Atualmente trabalho como analista de sistemas, com foco em front-end, na [Inpartec](https://www.inpartec.com.br/), empresa especialista em soluções com Office 365.
 
- - 💙 Vivendo um romance com Javascript
- - ☄️ Atualmente focando os estudos na stack ReactJS e NodeJS
+ - ☄️ Focando no ecossistema do Javascript(ReactJS)
  - ⚡ UI Designer
  - 🌐 VISITE MEU SITE! https://gabrieldasilva.com.br/
