@@ -10,6 +10,6 @@
 
 Atualmente trabalho como desenvolvedor front-end na [Inpartec](https://www.inpartec.com.br/), empresa especialista em soluções com Office 365.
 
- - ☄️ Focando no ecossistema do Javascript(ReactJS)
+ - ☄️ Focando os estudos no ecossistema Javascript, com ReactJS + NodeJS
  - ⚡ UI Designer
  - 🌐 VISITE MEU SITE! https://gabrieldasilva.com.br/
