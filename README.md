@@ -8,7 +8,7 @@
 
 ### Me chamo Gabriel (Você já deve ter percebido).
 
-Atualmente trabalho como desenvolvedor front-end na [Inpartec](https://www.inpartec.com.br/), empresa especialista em soluções com Office 365.
+Atualmente trabalho como desenvolvedor web júnior na [Inpartec](https://www.inpartec.com.br/), empresa especialista em soluções com Office 365.
 
  - ☄️ Focando os estudos no ecossistema Javascript, com ReactJS + NodeJS
  - ⚡ UI Designer
