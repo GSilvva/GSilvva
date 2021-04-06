@@ -6,10 +6,10 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-0057ff?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joaogdg)](https://www.behance.net/joaogdg)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/GSilvva)
 
-### Me chamo Gabriel (Você já deve ter percebido).
+### Me chamo Gabriel.
 
-Atualmente trabalho como desenvolvedor front-end júnior na [Inpartec](https://www.inpartec.com.br/), empresa especialista em soluções com Office 365.
+Atualmente trabalho como desenvolvedor front-end e UI Designer na [L0gik](http://l0gik.com.br/).
 
- - ☄️ Focando os estudos no ecossistema Javascript Fullstack, com ReactJS, VueJS e NodeJS.
+ - ☄️ Focando os estudos no ecossistema Javascript Fullstack, VueJS e NodeJS.
  - ⚡ UI Designer
  - 🌐 VISITE MEU SITE! https://gabrieldasilva.com.br/
